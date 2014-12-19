@@ -1,0 +1,11 @@
+{
+	"extName": {
+		"message": "Прочети го"
+	},
+	"extDesc": {
+		"message": "Приложение което прочита селектираният текст"
+	},
+	"openContextMenuTitle": {
+		"message": "Прочети го"
+	}
+}

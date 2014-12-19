@@ -1,0 +1,11 @@
+{
+	"extName": {
+		"message": "Say it"
+	},
+	"extDesc": {
+		"message": "Just read selected text"
+	},
+	"openContextMenuTitle": {
+		"message": "Say it"
+	}
+}
